@@ -9,6 +9,7 @@ Run the application located on consoledleapp>Debug>Bin>Debug>net8.0 named "CONSO
 In order for the music to function while editing the code in VSC IDE, First install the "System.Windows.Extensions". To install the extension, go to Tools>nuGet Package Manager>Manage NuGet Packages for solution>Browse>Search for "System.Windows.Extensions" and install it to your project.
 
 Sounds used in the application:
+
 Toby Fox - Menu (Full)  (https://youtu.be/q2IYscs_8uY?si=rFv4KuORrOJpZybm)
 
 Toby Fox - sans.  (https://youtu.be/b2UHoGnGyvE?si=cAA6QlzIZD0TjKh2)
