@@ -1,0 +1,18 @@
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\bin\Debug\net8.0\CONSOLEDLE APP.exe
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\bin\Debug\net8.0\CONSOLEDLE APP.deps.json
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\bin\Debug\net8.0\CONSOLEDLE APP.runtimeconfig.json
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\bin\Debug\net8.0\CONSOLEDLE APP.dll
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\bin\Debug\net8.0\CONSOLEDLE APP.pdb
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\CONSOLEDLE APP.csproj.AssemblyReference.cache
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\CONSOLEDLE APP.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\CONSOLEDLE APP.AssemblyInfoInputs.cache
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\CONSOLEDLE APP.AssemblyInfo.cs
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\CONSOLEDLE APP.csproj.CoreCompileInputs.cache
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\CONSOLEDLE APP.csproj.CopyComplete
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\CONSOLEDLE APP.dll
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\refint\CONSOLEDLE APP.dll
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\CONSOLEDLE APP.pdb
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\CONSOLEDLE APP.genruntimeconfig.cache
+F:\vsc codes\CONSOLEDLE APP\CONSOLEDLE APP\obj\Debug\net8.0\ref\CONSOLEDLE APP.dll

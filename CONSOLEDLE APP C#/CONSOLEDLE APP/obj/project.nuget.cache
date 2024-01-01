@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHNoDSN4uNl3P6TLfNnDGM4cJNNN8+vtQZpbbDnH6tBNY2MfksltIIOPoGxnwGo/eeWV41F45uvrNmz0G1aJCw==",
+  "success": true,
+  "projectFilePath": "F:\\vsc codes\\CONSOLEDLE APP\\CONSOLEDLE APP\\CONSOLEDLE APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sojeee\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
