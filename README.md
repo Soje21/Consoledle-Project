@@ -10,6 +10,9 @@ In order for the music to function while editing the code in VSC IDE, First inst
 
 Sounds used in the application:
 Toby Fox - Menu (Full)  (https://youtu.be/q2IYscs_8uY?si=rFv4KuORrOJpZybm)
+
 Toby Fox - sans.  (https://youtu.be/b2UHoGnGyvE?si=cAA6QlzIZD0TjKh2)
+
 Toby Fox - Hotel  (https://youtu.be/CgvMoz2LnWA?si=Gz3guU2tNj9tAHrF)
+
 These songs are composed by Toby Fox and copyrighted by Materia Music Publishing
