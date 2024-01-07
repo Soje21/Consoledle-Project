@@ -8,9 +8,6 @@ namespace CONSOLEDLE_APP
 {
     public class Function
     {
-        private static int origRow;
-        private static int origCol;
-
 
         //CENTER TEXT METHOD
         public static void CenterText(string text)
